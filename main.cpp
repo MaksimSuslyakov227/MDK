@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
-
+//Данная программа является учебной
 int main() {
     int a, b;
     cout << "Введите первое число : ";
     cin >> a;
     cout << "Введите второе число : ";
     cin >> b;
-    int raz = a - b;
-    cout << "Разность : " << raz << endl;
+    int sum = a + b;
+    cout << "Сумма : " << sum << endl;
 }
 
