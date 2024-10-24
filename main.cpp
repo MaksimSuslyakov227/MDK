@@ -7,3 +7,7 @@ int main() {
     cin >> a;
     cout << "Введите второе число : ";
     cin >> b;
+    int sum = a + b;
+    cout << "Сумма : " << sum << endl;
+}
+
